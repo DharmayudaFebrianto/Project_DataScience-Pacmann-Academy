@@ -1,6 +1,27 @@
 # Dataset
 insurance.csv
+Data-Test.csv
+ifood_df.csv
+marketing_campaign.csv
+*.csv
 
 # Notes
 Notes.ipynb
 Testing.ipynb
+Inference1_Statistical Business.ipynb
+Probability_Model.ipynb
+Batch 14 Project Data-Wrangling_Pacmann Academy_Dharmayuda Febrianto.ipynb
+data-prep-visual-eda-and-statistical-hypothesis.ipynb
+marketing-analytics-eda-task-final.ipynb
+Final Project.ipynb
+Final Project Data Wrangling SQL.ipynb
+Asistensi SQL _ Data Wrangling Week 6 Part II.ipynb
+Asistensi SQL _ Data Wrangling Week 6.ipynb
+# Folder
+Statistic For Business/
+
+# PNG Files
+*.png
+
+# Database
+olist.db
